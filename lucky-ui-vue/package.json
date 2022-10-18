@@ -1,0 +1,12 @@
+{
+  "name": "lucky-ui-vue",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lucky-ui-vue.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
